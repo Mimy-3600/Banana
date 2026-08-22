@@ -1,3 +1,0 @@
-/home/melomimy/Development/Fun/Banana/build/bin/CMakeFiles/banana.dir
-/home/melomimy/Development/Fun/Banana/build/bin/CMakeFiles/edit_cache.dir
-/home/melomimy/Development/Fun/Banana/build/bin/CMakeFiles/rebuild_cache.dir
