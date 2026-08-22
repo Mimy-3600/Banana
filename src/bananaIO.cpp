@@ -2,5 +2,5 @@
 #include <iostream>
 
 void IO::cout() {
-	std::cout << "Hello bro" << std::endl;
+	std::cout << "Hello banana" << std::endl;
 }
