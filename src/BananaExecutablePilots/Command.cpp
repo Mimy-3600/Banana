@@ -4,7 +4,7 @@
 #include <functional>
 
 //internal include
-#include <BananaExecutablePilots/Command.class.hpp>
+#include "BananaExecutablePilots/Command.class.hpp"
 
 using namespace BananaExecutablePilots;
 

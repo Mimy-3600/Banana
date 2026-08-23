@@ -4,8 +4,8 @@
 #include <vector>
 
 //internal include
-#include <BananaExecutablePilots/UserCommand.class.hpp>
-#include <BananaExecutablePilots/Command.class.hpp>
+#include "BananaExecutablePilots/UserCommand.class.hpp"
+#include "BananaExecutablePilots/Command.class.hpp"
 
 namespace BananaExecutablePilots {
 	class Executable {

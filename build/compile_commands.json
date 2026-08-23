@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/home/melomimy/Development/Fun/Banana/build",
+  "command": "/usr/bin/c++  -I/home/melomimy/Development/Fun/Banana/include -std=gnu++20 -o CMakeFiles/banana.dir/src/BananaExecutablePilots/ArgParse.cpp.o -c /home/melomimy/Development/Fun/Banana/src/BananaExecutablePilots/ArgParse.cpp",
+  "file": "/home/melomimy/Development/Fun/Banana/src/BananaExecutablePilots/ArgParse.cpp",
+  "output": "CMakeFiles/banana.dir/src/BananaExecutablePilots/ArgParse.cpp.o"
+},
+{
+  "directory": "/home/melomimy/Development/Fun/Banana/build",
+  "command": "/usr/bin/c++  -I/home/melomimy/Development/Fun/Banana/include -std=gnu++20 -o CMakeFiles/banana.dir/src/BananaExecutablePilots/Command.cpp.o -c /home/melomimy/Development/Fun/Banana/src/BananaExecutablePilots/Command.cpp",
+  "file": "/home/melomimy/Development/Fun/Banana/src/BananaExecutablePilots/Command.cpp",
+  "output": "CMakeFiles/banana.dir/src/BananaExecutablePilots/Command.cpp.o"
+},
+{
+  "directory": "/home/melomimy/Development/Fun/Banana/build",
+  "command": "/usr/bin/c++  -I/home/melomimy/Development/Fun/Banana/include -std=gnu++20 -o CMakeFiles/banana.dir/src/BananaExecutablePilots/CommandFunction/help.cpp.o -c /home/melomimy/Development/Fun/Banana/src/BananaExecutablePilots/CommandFunction/help.cpp",
+  "file": "/home/melomimy/Development/Fun/Banana/src/BananaExecutablePilots/CommandFunction/help.cpp",
+  "output": "CMakeFiles/banana.dir/src/BananaExecutablePilots/CommandFunction/help.cpp.o"
+},
+{
+  "directory": "/home/melomimy/Development/Fun/Banana/build",
+  "command": "/usr/bin/c++  -I/home/melomimy/Development/Fun/Banana/include -std=gnu++20 -o CMakeFiles/banana.dir/src/BananaExecutablePilots/CommandFunction/run.cpp.o -c /home/melomimy/Development/Fun/Banana/src/BananaExecutablePilots/CommandFunction/run.cpp",
+  "file": "/home/melomimy/Development/Fun/Banana/src/BananaExecutablePilots/CommandFunction/run.cpp",
+  "output": "CMakeFiles/banana.dir/src/BananaExecutablePilots/CommandFunction/run.cpp.o"
+},
+{
+  "directory": "/home/melomimy/Development/Fun/Banana/build",
+  "command": "/usr/bin/c++  -I/home/melomimy/Development/Fun/Banana/include -std=gnu++20 -o CMakeFiles/banana.dir/src/BananaExecutablePilots/Executable.cpp.o -c /home/melomimy/Development/Fun/Banana/src/BananaExecutablePilots/Executable.cpp",
+  "file": "/home/melomimy/Development/Fun/Banana/src/BananaExecutablePilots/Executable.cpp",
+  "output": "CMakeFiles/banana.dir/src/BananaExecutablePilots/Executable.cpp.o"
+},
+{
+  "directory": "/home/melomimy/Development/Fun/Banana/build",
+  "command": "/usr/bin/c++  -I/home/melomimy/Development/Fun/Banana/include -std=gnu++20 -o CMakeFiles/banana.dir/src/BananaExecutablePilots/UserCommand.cpp.o -c /home/melomimy/Development/Fun/Banana/src/BananaExecutablePilots/UserCommand.cpp",
+  "file": "/home/melomimy/Development/Fun/Banana/src/BananaExecutablePilots/UserCommand.cpp",
+  "output": "CMakeFiles/banana.dir/src/BananaExecutablePilots/UserCommand.cpp.o"
+},
+{
+  "directory": "/home/melomimy/Development/Fun/Banana/build",
+  "command": "/usr/bin/c++  -I/home/melomimy/Development/Fun/Banana/include -std=gnu++20 -o CMakeFiles/banana.dir/src/BananaIO/ExecutableOut.cpp.o -c /home/melomimy/Development/Fun/Banana/src/BananaIO/ExecutableOut.cpp",
+  "file": "/home/melomimy/Development/Fun/Banana/src/BananaIO/ExecutableOut.cpp",
+  "output": "CMakeFiles/banana.dir/src/BananaIO/ExecutableOut.cpp.o"
+},
+{
+  "directory": "/home/melomimy/Development/Fun/Banana/build",
+  "command": "/usr/bin/c++  -I/home/melomimy/Development/Fun/Banana/include -std=gnu++20 -o CMakeFiles/banana.dir/src/main.cpp.o -c /home/melomimy/Development/Fun/Banana/src/main.cpp",
+  "file": "/home/melomimy/Development/Fun/Banana/src/main.cpp",
+  "output": "CMakeFiles/banana.dir/src/main.cpp.o"
+}
+]
